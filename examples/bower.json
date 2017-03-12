@@ -1,0 +1,27 @@
+{
+  "name": "turntable",
+  "authors": [
+    "Kian <kian@vsu.cc>"
+  ],
+  "description": "turntable",
+  "main": "",
+  "keywords": [
+    "turntable"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "common",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "^0.84.0",
+    "jquery": "^3.1.1",
+    "dat.gui": "*"
+  }
+}

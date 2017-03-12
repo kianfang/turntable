@@ -1,0 +1,17 @@
+html,body,div{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+}
+
+#turntable{
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
+
+.dg .slider {
+    width: 60%!important;
+}

@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "moduleResolution": "node",
+        "allowJs": true,
+        "lib": ["es2015", "es2016", "dom"]
+    },
+    "exclude": [
+        "./node_modules"
+    ]
+}
